@@ -14,6 +14,6 @@
 
 | date (mm/dd) | updates |
 | ---- | ---- |
-| --/-- | L? ?. ?? has been replaced by Sinclair ?. ?? |
-| --/-- | Ariel ?. ?? has been exterminated |
+| --/-- | L? ?. ??, replaced by Sinclair ?. ?? |
+| --/-- | Ariel ?. ??, exterminated |
 | 02/19 | Michael J. Ford, you will never sing again |
