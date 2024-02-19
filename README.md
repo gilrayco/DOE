@@ -12,8 +12,8 @@
 
 ---
 
-+ --/--, L? ?. ?? has been replaced by Sinclair ?. ??. 
++ --/-- | L? ?. ?? has been replaced by Sinclair ?. ??. 
 
-+ --/--, Ariel ?. ?? has been exterminated. 
++ --/-- | Ariel ?. ?? has been exterminated. 
 
-+ 02/19, Michael J. Ford, you will never sing again. 
++ 02/19 | Michael J. Ford, you will never sing again. 
