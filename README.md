@@ -16,7 +16,7 @@
  <summary>--/--</summary>
   <p>
 
-+ [Luke J. Dale](https://docs.google.com/document/d/16dy1Sg7i7Ij8CriwtHQRsXgeQp8rDHnbjaVVw1kTl9Y/edit?usp=sharing), replaced by [Sinclair L(ynch). Anderson](https://docs.google.com)
++ [Luke J. Dale](https://docs.google.com/document/d/16dy1Sg7i7Ij8CriwtHQRsXgeQp8rDHnbjaVVw1kTl9Y/edit?usp=sharing) , replaced by [Sinclair L(ynch). Anderson](https://docs.google.com)
    
   </p>
 </details>
