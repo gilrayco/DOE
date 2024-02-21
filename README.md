@@ -8,7 +8,7 @@
  End date: {--/--/2---}
 </p>
 <p align="right">
- Last updated: {02/19/2024}
+ Last updated: {02/21/2024}
 </p>
 ----
 
@@ -16,7 +16,7 @@
  <summary>--/--</summary>
   <p>
 
-+ [Luke J(ordan). Dale](link), replaced by [Sinclair L(ynch). Anderson](link)
++ [Luke J. Dale](https://docs.google.com/document/d/16dy1Sg7i7Ij8CriwtHQRsXgeQp8rDHnbjaVVw1kTl9Y/edit?usp=sharing), replaced by [Sinclair L(ynch). Anderson](https://docs.google.com)
    
   </p>
 </details>
