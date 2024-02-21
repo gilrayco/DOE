@@ -16,7 +16,7 @@
  <summary>--/--</summary>
   <p>
 
-* [Luke J. Dale](https://docs.google.com/document/d/1qTwpCFop4fKvyhSIE-3j0KP7F0T1-WlVPVsCL7u88LA/edit?usp=sharing) , replaced by [Sinclair L(ynch). Anderson](https://docs.google.com)
+   [Luke J. Dale](https://docs.google.com/document/d/1qTwpCFop4fKvyhSIE-3j0KP7F0T1-WlVPVsCL7u88LA/edit?usp=sharing) , replaced by [Sinclair L(ynch). Anderson](https://docs.google.com)
    
   </p>
 </details>
@@ -25,7 +25,7 @@
  <summary>--/--</summary>
   <p>
 
-+ [Ariel M(orris). Roux](link), exterminated
+[Ariel M(orris). Roux](link), exterminated
    
   </p>
 </details>
@@ -34,7 +34,7 @@
  <summary>02/19</summary>
   <p>
 
-+ [Michael J(ohnson). Ford](link), you will never sing again
+[Michael J(ohnson). Ford](link), you will never sing again
    
   </p>
 </details>
