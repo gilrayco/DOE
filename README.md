@@ -13,7 +13,7 @@
 ----
 
 <details>
- <summary>▼--/--</summary>
+ <summary>--/--</summary>
   <p>
 
 + [Luke J(ordan). Dale](link), replaced by [Sinclair L(ynch). Anderson](link)
@@ -22,7 +22,7 @@
 </details>
 
 <details>
- <summary>▼--/--</summary>
+ <summary>--/--</summary>
   <p>
 
 + [Ariel M(orris). Roux](link), exterminated
@@ -31,7 +31,7 @@
 </details>
 
 <details>
- <summary>▼02/19</summary>
+ <summary>02/19</summary>
   <p>
 
 + [Michael J(ohnson). Ford](link), you will never sing again
